@@ -1,0 +1,1 @@
+iceC 2.0, is an updated version of iceC on one of my repositories. The bots is simple, and as of right now(12/03/2024, 12:10am), the bot is mainly working through prefix commands. I intend to add the slash commands, together with stuff such as music commands. Right now “youtube_dl” is having problems with playing the music as it should, which made move to “pytube”
